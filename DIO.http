@@ -1,0 +1,6 @@
+@DIO_HostAddress = http://localhost:5286
+
+GET {{DIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
